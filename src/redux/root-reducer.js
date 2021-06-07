@@ -4,7 +4,7 @@ import { iceCreamReducer } from "./ice-cream/ice-cream-reducer";
 
 const rootReducer = combineReducers({
 	cake: cakeReducer,
-	iceCrem: iceCreamReducer,
+	iceCream: iceCreamReducer,
 });
 
 export { rootReducer };

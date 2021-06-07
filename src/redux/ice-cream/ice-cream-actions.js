@@ -11,3 +11,5 @@ const returnIceCream = () => {
 		type: RETURN_ICE_CREAM,
 	};
 };
+
+export { buyIceCream, returnIceCream };
